@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1678360523 source:d:\kuliah\semester2\alpro\praktikum\praktikum 3\main.c
+
+1678361239 source:d:\kuliah\semester2\alpro\praktikum\praktikum 3\jumderet.c
+
+1678361439 source:d:\kuliah\semester2\alpro\praktikum\praktikum 3\faktorbil.c
+
+1678361740 source:d:\kuliah\semester2\alpro\praktikum\praktikum 3\cekbilprima.c
+
+1678361982 source:d:\kuliah\semester2\alpro\praktikum\praktikum 3\cekbilsemp.c
+
+1678362539 source:d:\kuliah\semester2\alpro\praktikum\praktikum 3\bilpriman.c
+
+1678362873 source:d:\kuliah\semester2\alpro\praktikum\praktikum 3\bilsempn.c
+	<stdio.h>
+	<stdlib.h>
+
